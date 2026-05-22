@@ -1,0 +1,10 @@
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Local notes that should not be published
+*.local.md
+.env
+.env.*
