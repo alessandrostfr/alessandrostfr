@@ -20,19 +20,19 @@ Actualmente estoy preparando mi entrada profesional como desarrollador, con foco
 
 ## Stack principal
 
-**Backend**  
+**🐍 Backend**  
 Python · FastAPI · SQLAlchemy · Pydantic · PostgreSQL · APIs REST · JWT · Alembic
 
-**Frontend**  
+**⚛️ Frontend**  
 React · Next.js · TypeScript · HTML · CSS Modules · Responsive design
 
-**Datos, automatización e IA**  
+**📊 Datos, automatización e IA**  
 Pandas · scraping controlado · integración de APIs · extracción estructurada · IA asistida · métricas
 
-**Herramientas**  
+**🛠️ Herramientas y despliegue**  
 Git · GitHub · Docker · Docker Compose · Linux/VPS · documentación técnica · testing básico
 
-**También he trabajado con**  
+**🧩 También he trabajado con**  
 PHP · Laravel · MySQL · MongoDB · Streamlit · Kafka básico
 
 ---
