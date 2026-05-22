@@ -1,5 +1,5 @@
-# Profile repository notes
+# Documentación del perfil GitHub
 
-This folder is reserved for future public notes, screenshots or assets related to the GitHub profile.
+Este repositorio alimenta el README público del perfil de GitHub de Alessandro Staiano Fernández.
 
-The main profile content is kept in the root `README.md`, because GitHub renders that file directly on the public profile page.
+La idea es mantener aquí una presentación profesional, clara y actualizada, alineada con el portfolio, LinkedIn, CV y proyectos destacados.

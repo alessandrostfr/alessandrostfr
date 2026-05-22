@@ -1,10 +1,11 @@
-# OS / editor files
+# Sistema
 .DS_Store
 Thumbs.db
+
+# Editor
 .vscode/
 .idea/
 
-# Local notes that should not be published
-*.local.md
-.env
-.env.*
+# Archivos temporales
+*.tmp
+*.log

@@ -1,118 +1,87 @@
-# Hi, I'm Alessandro Staiano 👋
+# Hola, soy Alessandro Staiano Fernández 👋
 
-**Junior Web Developer** focused on **backend, APIs, data-oriented products and full-stack web applications**.
+Soy **desarrollador web junior / full stack junior**, con especial interés en **backend, APIs, datos, producto y aplicaciones reales**.
 
-I'm currently finishing my Web Application Development studies and building a professional portfolio around real projects: private CRM tooling, AI-assisted workflows, dashboards, APIs, automation, and product-focused web apps.
+Estoy terminando el Grado Superior de **Desarrollo de Aplicaciones Web** y complementándolo con formación full stack. Me gusta construir proyectos completos, no solo ejercicios: backend, frontend, base de datos, autenticación, documentación, métricas, despliegue y una experiencia de usuario cuidada.
 
----
-
-## 🚀 What I'm focused on
-
-- Building practical web products with **FastAPI, Next.js, PostgreSQL and Docker**.
-- Designing backend systems with clear APIs, validation, authentication and data workflows.
-- Improving my public portfolio, GitHub profile and deployment skills with a real VPS setup.
-- Looking for my first serious opportunity as a **Junior Backend / Full Stack Developer**.
+Actualmente estoy preparando mi entrada profesional como desarrollador, con foco en oportunidades junior donde pueda aprender dentro de un equipo técnico y aportar desde el primer día con una base práctica sólida.
 
 ---
 
-## 🧠 Main stack
+## En qué estoy enfocado ahora
 
-### Backend
-![Python](https://img.shields.io/badge/Python-111827?style=flat&logo=python)
-![FastAPI](https://img.shields.io/badge/FastAPI-111827?style=flat&logo=fastapi)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-111827?style=flat)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=flat&logo=postgresql)
-![REST APIs](https://img.shields.io/badge/REST_APIs-111827?style=flat)
-
-### Frontend
-![Next.js](https://img.shields.io/badge/Next.js-111827?style=flat&logo=nextdotjs)
-![React](https://img.shields.io/badge/React-111827?style=flat&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=flat&logo=typescript)
-![CSS](https://img.shields.io/badge/CSS-111827?style=flat&logo=css3)
-
-### Tools & workflow
-![Docker](https://img.shields.io/badge/Docker-111827?style=flat&logo=docker)
-![Git](https://img.shields.io/badge/Git-111827?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-111827?style=flat&logo=github)
-![Linux](https://img.shields.io/badge/Linux-111827?style=flat&logo=linux)
-![Testing](https://img.shields.io/badge/Testing-111827?style=flat)
+- Desarrollo backend con **Python, FastAPI, SQLAlchemy y PostgreSQL**.
+- Frontend moderno con **React, Next.js y TypeScript**.
+- Diseño de productos completos: autenticación, dashboards, métricas, flujos privados y experiencia mobile-first.
+- Automatización, ingesta de datos, scraping controlado, APIs e integración de servicios externos.
+- Buenas prácticas: Git, GitHub, Docker, documentación, testing, variables de entorno y despliegue.
 
 ---
 
-## 📌 Featured projects
+## Stack principal
 
-### Job Search CRM + Portfolio
-Private job-search platform built as a real employability tool.
+**Backend**  
+Python · FastAPI · SQLAlchemy · Pydantic · PostgreSQL · APIs REST · JWT · Alembic
 
-- Public portfolio + private authenticated CRM.
-- Multi-source job ingestion, PostgreSQL storage, AI-assisted extraction and review workflow.
-- Offer scoring, CV recommendation, cover-letter generation and application tracking.
-- Planned production deployment on an **IONOS VPS** with Docker, reverse proxy, HTTPS and backups.
+**Frontend**  
+React · Next.js · TypeScript · HTML · CSS Modules · Responsive design
 
-> Source code is currently private while the project is being prepared for production. A public case study and demo mode are planned.
+**Datos, automatización e IA**  
+Pandas · scraping controlado · integración de APIs · extracción estructurada · IA asistida · métricas
 
----
+**Herramientas**  
+Git · GitHub · Docker · Docker Compose · Linux/VPS · documentación técnica · testing básico
 
-### Nexus Predictor
-A data-oriented festival prediction project focused on artist demand, room pressure and schedule analysis.
-
-- Backend APIs, structured datasets, analytical dashboards and prediction-oriented workflows.
-- Designed to evolve from heuristic baselines into a more ML-focused product.
-- Built to demonstrate backend, data modeling, analytics and product thinking.
-
-Repository: [nexus-predictor](https://github.com/alessandrostfr/nexus-predictor)
+**También he trabajado con**  
+PHP · Laravel · MySQL · MongoDB · Streamlit · Kafka básico
 
 ---
 
-### Argus Gym
-Fitness/social platform focused on routines, progress tracking, calendar workflows and mobile-first UX.
+## Proyectos destacados
 
-- Full product vision: routines, progress, community, chat, coach mode and analytics.
-- Backend-first architecture with a strong focus on real product functionality.
-- The main repository remains private, but a public showcase with screenshots, architecture and demo will be created.
-
----
-
-### Lidl Offers Scraper
-Python scraping project for extracting, organizing and exporting offer data.
-
-- Python scraping/parsing structure.
-- CSV export workflow.
-- Streamlit interface planned/improved for operational use.
-
-> This project is being cleaned and documented before being highlighted as a secondary portfolio project.
+| Proyecto | Descripción | Stack / enfoque | Estado |
+|---|---|---|---|
+| **Job Search CRM + Portfolio** | Plataforma propia para gestionar búsqueda de empleo: portfolio público, CRM privado, ingesta de ofertas, IA, scoring, revisión humana, CV recomendado, cartas y métricas. | FastAPI · Next.js · PostgreSQL · IA · Docker | En preparación para despliegue |
+| **Nexus Predictor** | Aplicación para analizar y predecir saturación, demanda y distribución de artistas en un festival, combinando datos, heurísticas/ML y visualización. | FastAPI · React · datos · analítica | Público / en evolución |
+| **Argus Gym** | App fitness/social con rutinas, progreso, calendario, comunidad, media y experiencia mobile-first. | FastAPI · PostgreSQL · frontend web · producto | Código privado · demo/showcase próximamente |
+| **Scraping Lidl** | Proyecto de extracción y organización de ofertas/productos con Python, exportación CSV y app Streamlit. | Python · scraping · Streamlit · CSV | Pendiente de limpieza final |
+| **Argus Blog** | Blog/CMS con Laravel, base para una futura comunidad de programadores. | PHP · Laravel · MySQL | Proyecto secundario |
 
 ---
 
-## 🧩 How I like to build
+## Qué intento demostrar con mis proyectos
 
-- Start from a real problem, not from a random tutorial.
-- Keep features traceable, testable and documented.
-- Separate MVP logic, future improvements and known limitations.
-- Use Git seriously: branches, commits, validation steps and clear documentation.
-- Prefer honest junior positioning: practical projects, learning speed and solid fundamentals.
+No busco presentar solo una lista de tecnologías. Intento demostrar que sé llevar una idea desde el planteamiento hasta una versión funcional:
 
----
-
-## 🎯 Current professional goal
-
-I'm looking for a **Junior Developer** role where I can grow inside a real technical team, preferably around:
-
-- Backend development with Python, APIs and databases.
-- Full-stack web development with React/Next.js.
-- Data-oriented products, dashboards, automation or internal tools.
-- Product teams, startups, consultancies or IT departments with real engineering practices.
-
-Priority: **Madrid / hybrid / on-site**, open to strong opportunities in Spain.
+- Entender un problema y convertirlo en requisitos.
+- Diseñar entidades, flujos y arquitectura.
+- Construir backend y frontend conectados.
+- Guardar datos de forma trazable.
+- Documentar decisiones técnicas.
+- Medir, probar, corregir y mejorar iterativamente.
+- Pensar en producto, no solo en código.
 
 ---
 
-## 📫 Contact
+## Objetivo profesional
 
-- GitHub: [@alessandrostfr](https://github.com/alessandrostfr)
-- LinkedIn: [alessandrostfr](https://www.linkedin.com/in/alessandrostfr)
-- Portfolio: coming soon
+Busco una primera oportunidad como:
+
+- **Backend Developer Junior**
+- **Full Stack Developer Junior**
+- **Python / FastAPI Developer Junior**
+- **Web Developer Junior orientado a datos y producto**
+
+Me interesan especialmente equipos donde pueda aprender buenas prácticas, trabajar con proyectos reales y crecer técnicamente en backend, APIs, bases de datos, producto y arquitectura.
 
 ---
 
-> I'm not trying to look like “just another junior”. My goal is to show that I can think, build, document, measure and improve software in a professional way.
+## Contacto
+
+- GitHub: [github.com/alessandrostfr](https://github.com/alessandrostfr)
+- LinkedIn: [linkedin.com/in/alessandrostfr](https://www.linkedin.com/in/alessandrostfr)
+- Portfolio: próximamente
+
+---
+
+> Construyendo proyectos reales para aprender, mejorar y aportar valor como desarrollador junior.
